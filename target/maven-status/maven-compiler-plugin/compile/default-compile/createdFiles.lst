@@ -1,0 +1,11 @@
+pe\visorweb\driver\VisorDriver$NavegadorWeb.class
+pe\visorweb\pagina\producto\PaginaRegistrarProducto.class
+pe\visorweb\helper\VisorHelper.class
+pe\visorweb\menu\MenuPrincipal.class
+pe\visorweb\pagina\categoria\PaginaMantenimientoCategoria.class
+pe\visorweb\pagina\producto\PaginaActualizarProducto.class
+pe\visorweb\pagina\login\PaginaLogin.class
+pe\visorweb\pagina\producto\PaginaEliminarProducto.class
+pe\visorweb\driver\VisorDriver.class
+pe\visorweb\pagina\categoria\PaginaRegistrarCategoria.class
+pe\visorweb\pagina\producto\PaginaMantenimientoProducto.class

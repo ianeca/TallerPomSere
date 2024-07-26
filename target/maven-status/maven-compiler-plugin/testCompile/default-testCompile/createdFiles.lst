@@ -1,0 +1,9 @@
+pe\visorweb\pagina\producto\actualizar\paginaActualizarProductoTest.class
+pe\visorweb\pagina\producto\eliminar\paginaEliminarproductoTest.class
+pe\visorweb\pagina\producto\registrar\paginaRegistrarProductoTest.class
+pe\visorweb\pagina\producto\actualizar\paginaActualizarProductoStep.class
+pe\visorweb\pagina\producto\eliminar\paginaEliminarProductoStep.class
+pe\visorweb\pagina\producto\listar\paginaListarProductoStep.class
+pe\visorweb\pagina\login\PaginaLoginTest.class
+pe\visorweb\pagina\producto\registrar\paginaRegistrarProductoStep.class
+pe\visorweb\pagina\producto\listar\paginaListarProductoTest.class
